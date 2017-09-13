@@ -21,7 +21,7 @@
     "lodash-webpack-plugin": "^0.10.2",
     "morgan": "^1.8.1",
     "nightmare": "^2.10.0",
-    "react": "^15.3.2",
+    "react": "^15.6.1",
     "react-dom": "^15.3.2",
     "serve-favicon": "^2.0.1",
     "webpack": "^1.13.2"
